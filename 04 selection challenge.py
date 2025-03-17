@@ -1,0 +1,8 @@
+litter= int(input("How many puppies were born?"))
+
+if litter <=5:
+   print("5 or less is a good size")
+elif litter == 6:
+   print("6 ia manageable")
+else:
+   print("wow!")
